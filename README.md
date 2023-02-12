@@ -1,7 +1,7 @@
 # Portofolio-template-accessibility-revisited
 
 ###This work is a prototype of an accessible version of a portfolio template website. 
-This is the link to the original university website hamidou-barry.com. 
+This is the link to the original university website (https://hamidou-barry.com/)
 
 The original website is like most templates of websites we can find online. They are aesthetic. However, they are not very functional accessibility wise. 
 Mostly because of the wrong use of HTML attribute. It’s makes it nearly impossible for screen readers to navigate the page properly.
